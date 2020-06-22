@@ -28,6 +28,28 @@ or client-side data validation. <br/>
 * Added cookies for ADD TO CART option. 
 * Generates Product Bill as XML and we can view them. 
 
+# SCREENSHOTS:-
+
+# Homepage:-
+![image](https://user-images.githubusercontent.com/64122408/85280305-7f813880-b4a5-11ea-93b5-ff3a4dc3e31c.png)
+<br/>
+
+# Store page:-
+**Top view:-**
+![Screenshot_2020-06-22 Store](https://user-images.githubusercontent.com/64122408/85280782-70e75100-b4a6-11ea-9696-2d6acdce5340.png)
+<br/>
+**Bottom view:-**
+<br/>
+![image](https://user-images.githubusercontent.com/64122408/85280977-d9cec900-b4a6-11ea-89fc-f8a2e1d01603.png)
+<br/>
+
+# LOGIN PAGE:-
+![Screenshot_2020-06-22 Login](https://user-images.githubusercontent.com/64122408/85281348-73967600-b4a7-11ea-8331-1bae71e3cf1e.jpg)
+<br/>
+
+# NOTE:-
+**Feel free to fork This Project to see other web pages.**<br/>
+
 # CREDITS  
 :white_check_mark:**Karthik Raja**
 ![GitHub followers](https://img.shields.io/github/followers/mr-anonymous-official?label=mr-anonymous-official&style=social) <br/>
