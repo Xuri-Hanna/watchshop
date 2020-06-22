@@ -7,7 +7,11 @@ This is an e-commerce website developed using HTML, CSS, PHP, XML and MY SQL.
 [11]: https://twitter.com/MrAnonymousofcl
 
 # ABSTRACT:-
-        This web project is done to implement the concept of basic HTML, CSS, and JavaScript together <br/>to make a online Watch store. This page recommends the new and top selling brands of watches</br> and their link to purchase them. It also contains a login page, register page and feedback page to use the concept of JavaScript to implement in them for validating the user or client-side data validation.
+This web project is done to implement the concept of basic HTML, CSS, and JavaScript together <br/>
+to make a online Watch store. This page recommends the new and top selling brands of watches</br>
+and their link to purchase them. It also contains a login page, register page and feedback <br/> 
+page to use the concept of JavaScript to implement in them for validating the user <br/> 
+or client-side data validation. <br/>
 
 # KEY FEATURES:-
 * 3d Text effects used in store page. 
