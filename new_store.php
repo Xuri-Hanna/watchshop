@@ -1,5 +1,8 @@
 <?php
-$con = mysqli_connect("watchshop.mysql.database.azure.com","watchshop","Hieu0411!","products");
+$con = mysqli_init();
+mysqli_ssl_set($con,NULL,NULL, "{path to CA cert}", NULL, NULL);
+mysqli_real_connect($conn, "watchshop.mysql.database.azure.com", "watchshop", "Hieu0411!", "products", 3306, MYSQLI_CLIENT_SSL);
+
 session_start();
 if(isset($_SESSION['user']))
 {
