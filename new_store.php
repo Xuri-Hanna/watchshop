@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("localhost","root","","products");
+$con = mysqli_connect("localhost","watchshop","","products");
 session_start();
 if(isset($_SESSION['user']))
 {
